@@ -15,7 +15,7 @@
 
         erl_webserver = buildRebar3 {
           name = "erl_webserver";
-          version = "dev";
+          version = "0.1.0";
           src = lib.cleanSource ./.;
         };
       in
