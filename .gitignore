@@ -18,3 +18,9 @@ logs
 *.iml
 rebar3.crashdump
 *~
+
+# Nix's result
+result
+
+# nix-direnv
+.direnv/
